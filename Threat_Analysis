@@ -1,0 +1,66 @@
+=========================================
+THREAT ANALYSIS
+=========================================
+
+1. Insider Threat
+
+Description:
+Security risk caused by employees or authorized users.
+
+Impact:
+Data theft and unauthorized access.
+
+Prevention:
+Access control and employee monitoring.
+
+------------------------------------------------
+
+2. Malware
+
+Description:
+Malicious software designed to damage systems.
+
+Impact:
+Data loss and system compromise.
+
+Prevention:
+Antivirus software and regular updates.
+
+------------------------------------------------
+
+3. Phishing
+
+Description:
+Fake emails or websites used to steal information.
+
+Impact:
+Credential theft and financial loss.
+
+Prevention:
+Security awareness training.
+
+------------------------------------------------
+
+4. Weak Passwords
+
+Description:
+Easy-to-guess passwords.
+
+Impact:
+Unauthorized account access.
+
+Prevention:
+Strong password policies and MFA.
+
+------------------------------------------------
+
+5. Unpatched Systems
+
+Description:
+Systems missing security updates.
+
+Impact:
+Exploitation of known vulnerabilities.
+
+Prevention:
+Regular patch management.

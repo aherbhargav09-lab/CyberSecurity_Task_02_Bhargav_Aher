@@ -1,0 +1,13 @@
+=========================================
+RISK ASSESSMENT TABLE
+=========================================
+
++----------------------+--------------------+---------+------------+
+| Asset                | Threat             | Impact  | Risk Level |
++----------------------+--------------------+---------+------------+
+| Student Records      | Data Breach        | High    | High       |
+| Examination Data     | Unauthorized Access| High    | High       |
+| College Website      | DDoS Attack        | Medium  | Medium     |
+| Faculty Information  | Insider Threat     | High    | High       |
+| Network Infrastructure| Malware Infection | High    | High       |
++----------------------+--------------------+---------+------------+

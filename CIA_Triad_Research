@@ -1,0 +1,53 @@
+=========================================
+CYBER SECURITY TASK 02
+CIA TRIAD RESEARCH
+=========================================
+
+1. CONFIDENTIALITY
+
+Definition:
+Confidentiality means protecting information from unauthorized access.
+
+Why it is Important:
+It ensures that sensitive data is only available to authorized users.
+
+Real-World Example:
+Student records should only be accessible by authorized staff and students.
+
+------------------------------------------------
+
+2. INTEGRITY
+
+Definition:
+Integrity means ensuring that data remains accurate and unchanged.
+
+Why it is Important:
+It prevents unauthorized modification of information.
+
+Real-World Example:
+Exam results should not be altered by unauthorized individuals.
+
+------------------------------------------------
+
+3. AVAILABILITY
+
+Definition:
+Availability means ensuring that systems and data are accessible when needed.
+
+Why it is Important:
+Users must be able to access services without interruption.
+
+Real-World Example:
+The college website should remain accessible during admissions.
+
+------------------------------------------------
+
+CIA TRIAD COMPARISON TABLE
+
++---------------+-------------------------+--------------------------+----------------------+
+| Principle     | Purpose                 | Example                  | Security Method      |
++---------------+-------------------------+--------------------------+----------------------+
+| Confidentiality | Prevent unauthorized access | Student Records      | Encryption, MFA      |
+| Integrity       | Maintain data accuracy     | Exam Results         | Hashing, Access Ctrl |
+| Availability    | Ensure system access       | College Website      | Backups, Redundancy  |
++---------------+-------------------------+--------------------------+----------------------+

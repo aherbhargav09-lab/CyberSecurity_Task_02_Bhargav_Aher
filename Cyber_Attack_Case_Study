@@ -1,0 +1,30 @@
+=========================================
+CASE STUDY: WANNACRY RANSOMWARE ATTACK
+=========================================
+
+1. What Happened?
+
+WannaCry was a ransomware attack that spread worldwide in May 2017.
+It encrypted files on infected computers and demanded payment in Bitcoin.
+
+2. Which Part of CIA Triad Was Affected?
+
+Availability:
+Users could not access their files and systems.
+
+Integrity:
+Files were modified and encrypted.
+
+3. Impact
+
+- Over 200,000 computers infected.
+- Hospitals and businesses were disrupted.
+- Financial losses worldwide.
+
+4. Prevention
+
+- Regular software updates.
+- Security patches.
+- Strong antivirus protection.
+- Regular backups.
+- Employee awareness training.
